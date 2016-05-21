@@ -24,15 +24,7 @@
 		<p><q>这是梅文杰说的话</q></p>
 		<hr />
 		<blockquote>这是梅文杰说的很长的 &nbsp; &nbsp;&nbsp; &nbsp; 一句话</blockquote>		
-		<code>var i=i+300;</code>
-		<pre>
-				#include <stdio.h>
-				int main()
-				{
-					printf("sb");
-					return 0;				
-				}		
-		</pre>		
+		<code>var i=i+300;</code>		
 		<address>浙江</address>	
 	</body>
 </html>
