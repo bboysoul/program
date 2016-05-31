@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bboysoul&#39;s blog</title>
+    <description>bboysoul&#39;blog
+</description>
+    <link>http://bboysoul.github.io/bboysoul//bboysoul/</link>
+    <atom:link href="http://bboysoul.github.io/bboysoul//bboysoul/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 31 May 2016 12:58:08 +0800</pubDate>
+    <lastBuildDate>Tue, 31 May 2016 12:58:08 +0800</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+  </channel>
+</rss>

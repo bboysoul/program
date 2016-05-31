@@ -1,0 +1,19 @@
+# Site settings
+title: Bboysoul's blog
+email: meiwenjie5917@outlook.com
+description: >
+  bboysoul'blog
+baseurl: "/bboysoul"
+url: "http://bboysoul.github.io/bboysoul/"
+fixedNav: 'true' # true or false
+theme: green # green, blue, orange, purple, grey
+twitterUsername: bboysoul
+githubUsername: bboysoul
+
+# Build settings
+permalink: /:year/:month/:title
+markdown: kramdown
+include: [_pages]
+exclude: [_site, LICENSE,]
+sass:
+  style: compressed
